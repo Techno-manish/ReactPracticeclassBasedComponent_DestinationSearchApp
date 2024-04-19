@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.bgContainer {
+  padding: 10px 20vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.innerContainer {
+  padding: 30px;
+  text-align: center;
+}
+.mainHeading {
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Roboto;
+}
+.searchBarContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.searchImage {
+  height: 30px;
+}
+.contentContainer {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 20px;
+}
